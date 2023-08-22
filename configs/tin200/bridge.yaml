@@ -1,0 +1,51 @@
+DATASETS: !include configs/tin200/modules/dataset.yaml
+BEZIER_MODEL:
+  META_ARCHITECTURE:
+    NAME: ClassificationModelBase
+  PIXEL_MEAN: !include configs/tin200/modules/pixel_mean.yaml
+  PIXEL_STD:  !include configs/tin200/modules/pixel_std.yaml
+  BACKBONE:   !include configs/tin200/modules/backbone_bezier.yaml
+  CLASSIFIER: !include configs/tin200/modules/classifier_bezier.yaml
+  CHECKPOINT: TO_BE_SET
+
+MODEL:
+  META_ARCHITECTURE:
+    NAME: BridgeModelBase
+  BASE_IN_PLANES: 256
+  REQUIRES:
+    - layer13
+  BACKBONES: [14, 15, 16]
+  TYPE: 1
+  SLIM_FACTOR: 1
+
+SOLVER:
+  NUM_EPOCHS: 100
+  BATCH_SIZE: 256
+  VALID_FREQUENCY: 1
+  VALID_FINALE: 10
+  OPTIMIZER:
+    NAME: SGD
+    SGD:
+      BASE_LR: 0.1
+      WEIGHT_DECAY: 0.00001
+      MOMENTUM: 0.9
+      NESTEROV: True
+  SCHEDULER:
+    NAME: WarmupSimpleCosineLR
+    WARMUP_SIMPLE_COSINE_LR:
+      WARMUP_EPOCHS: 5
+      WARMUP_METHOD: linear
+      WARMUP_FACTOR: 0.01
+  MATCH: log_confidences
+  MIXUP_ALPHA: 0.4
+  REGULARIZATION: 0.
+
+DATALOADER:
+  NUM_WORKERS: 4
+  PIN_MEMORY: True
+
+CUDNN_BENCHMARK: True
+CUDNN_DETERMINISTIC: False
+
+LOG_FREQUENCY: 4
+NUM_DEVICES: -1

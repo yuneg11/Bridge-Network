@@ -1,0 +1,9 @@
+/archive
+/datasets
+/outs*
+/.cache
+/_*
+
+# Temp
+/packages
+/z_logs

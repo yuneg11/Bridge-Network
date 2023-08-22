@@ -1,0 +1,21 @@
+DATASETS: !include configs/in1k/modules/dataset.yaml
+
+MODEL:
+  META_ARCHITECTURE:
+    NAME: ClassificationModelBase
+  PIXEL_MEAN: !include configs/in1k/modules/pixel_mean.yaml
+  PIXEL_STD:  !include configs/in1k/modules/pixel_std.yaml
+  BACKBONE:   !include configs/in1k/modules/backbone_bezier_bn.yaml
+  CLASSIFIER: !include configs/in1k/modules/classifier_bezier.yaml
+
+SOLVER: !include configs/in1k/modules/sgd_bezier.yaml
+
+DATALOADER:
+  NUM_WORKERS: 8
+  PIN_MEMORY: True
+
+CUDNN_BENCHMARK: True
+CUDNN_DETERMINISTIC: False
+
+LOG_FREQUENCY: 5
+NUM_DEVICES: -1

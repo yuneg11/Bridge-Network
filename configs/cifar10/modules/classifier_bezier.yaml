@@ -1,0 +1,8 @@
+NAME: build_softmax_classifier
+SOFTMAX_CLASSIFIER:
+  FEATURE_DIM: 128
+  NUM_CLASSES: 10
+  NUM_HEADS: 1
+  USE_BIAS: True
+  LINEAR_LAYERS: Linear_Bezier
+# FREEZE: True / False

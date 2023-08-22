@@ -1,0 +1,243 @@
+Single + Bridge 1 (t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+Single + Bridge 1 (t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+Single + Bridge 1 (t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+Single + Bridge 1 (t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+Single + Bridge 1 (t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+Single + Bridge 1 (t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+Single + Bridge 1 (t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+Single + Bridge 1 (t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+Single + Bridge 1 (t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+Single + Bridge 1 (t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+Single + Bridge 1 (t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+Single + Bridge 1 (t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+
+Single + Bridge 2 (t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+Single + Bridge 2 (t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+Single + Bridge 2 (t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+Single + Bridge 2 (t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+Single + Bridge 2 (t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+Single + Bridge 2 (t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+Single + Bridge 2 (t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+Single + Bridge 2 (t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+Single + Bridge 2 (t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+Single + Bridge 2 (t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+Single + Bridge 2 (t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+Single + Bridge 2 (t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+
+Single + Bridge 3 (t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+Single + Bridge 3 (t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+Single + Bridge 3 (t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+Single + Bridge 3 (t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+Single + Bridge 3 (t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+Single + Bridge 3 (t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+Single + Bridge 3 (t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+Single + Bridge 3 (t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+Single + Bridge 3 (t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+Single + Bridge 3 (t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+Single + Bridge 3 (t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+Single + Bridge 3 (t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+
+Single + Bridge 4 (t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd0]
+Single + Bridge 4 (t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.0_wd1e-5]
+Single + Bridge 4 (t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd0]
+Single + Bridge 4 (t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.1_wd1e-5]
+Single + Bridge 4 (t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd0]
+Single + Bridge 4 (t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b14-15/s1/l13/e200_a0.4_r0.2_wd1e-5]
+Single + Bridge 4 (t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd0]
+Single + Bridge 4 (t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.0_wd1e-5]
+Single + Bridge 4 (t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd0]
+Single + Bridge 4 (t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.1_wd1e-5]
+Single + Bridge 4 (t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd0]
+Single + Bridge 4 (t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5):
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-3/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]
+  - [cifar100/base/0, outs-bridge/cifar100/bridge/0-4/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-5/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-1/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5, outs-bridge/cifar100/bridge/0-2/0/t1/b13-15/s1/l12/e200_a0.4_r0.2_wd1e-5]

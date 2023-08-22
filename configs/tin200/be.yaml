@@ -1,0 +1,31 @@
+DATASETS: !include configs/tin200/modules/dataset.yaml
+
+MODEL:
+  META_ARCHITECTURE:
+    NAME: ClassificationModelBase
+  PIXEL_MEAN: !include configs/tin200/modules/pixel_mean.yaml
+  PIXEL_STD:  !include configs/tin200/modules/pixel_std.yaml
+  BACKBONE:   !include configs/tin200/modules/backbone_be.yaml
+  CLASSIFIER: !include configs/tin200/modules/classifier_be.yaml
+  BATCH_ENSEMBLE:
+    ENABLED: True
+    ENSEMBLE_SIZE: 2
+    USE_ENSEMBLE_BIAS: True
+    ALPHA_INITIALIZER:
+      NAME: normal
+      VALUES: [1.0, 0.5]
+    GAMMA_INITIALIZER:
+      NAME: normal
+      VALUES: [1.0, 0.5]
+
+SOLVER: !include configs/tin200/modules/sgd_be.yaml
+
+DATALOADER:
+  NUM_WORKERS: 4
+  PIN_MEMORY: True
+
+CUDNN_BENCHMARK: True
+CUDNN_DETERMINISTIC: False
+
+LOG_FREQUENCY: 4
+NUM_DEVICES: -1

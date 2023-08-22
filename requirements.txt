@@ -1,0 +1,7 @@
+torch
+pandas
+scipy
+tabulate
+
+nxcl==0.0.3.dev3
+nxml==0.0.3

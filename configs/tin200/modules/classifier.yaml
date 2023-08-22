@@ -1,0 +1,7 @@
+NAME: build_softmax_classifier
+SOFTMAX_CLASSIFIER:
+  FEATURE_DIM: 512
+  NUM_CLASSES: 200
+  NUM_HEADS: 1
+  USE_BIAS: True
+  LINEAR_LAYERS: Linear

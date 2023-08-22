@@ -1,0 +1,114 @@
+# Base 0:
+#   - [tin200/base/0]
+# Base 1:
+#   - [tin200/base/1]
+# Base 2:
+#   - [tin200/base/2]
+# Base 3:
+#   - [tin200/base/3]
+# Base 4:
+#   - [tin200/base/4]
+# Base 5:
+#   - [tin200/base/5]
+# Base 6:
+#   - [tin200/base/6]
+# Base 7:
+#   - [tin200/base/7]
+
+
+# 4:
+#   - [tin200/base/4]
+# 1:
+#   - [tin200/base/1]
+# 2:
+#   - [tin200/base/2]
+
+# 41:
+#   - [tin200/base/4, tin200/base/1]
+# 42:
+#   - [tin200/base/4, tin200/base/2]
+# 12:
+#   - [tin200/base/1, tin200/base/2]
+
+# 412:
+#   - [tin200/base/4, tin200/base/1, tin200/base/2]
+
+
+# UP:
+#   - [tin200/base/4]
+# UP + DOWN:
+#   - [tin200/base/4, outs-tin200-all/tin200/bridge/4-1/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/4-2/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+#   - [tin200/base/4, outs-tin200-all/tin200/bridge/4-1/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/4-2/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+
+# Center:
+#   - [tin200/base/1]
+# Center + UP/DOWN:
+#   - [tin200/base/1, outs-tin200-all/tin200/bridge/1-4/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/1-2/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+#   - [tin200/base/1, outs-tin200-all/tin200/bridge/1-4/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/1-2/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+
+# DOWN:
+#   - [tin200/base/2]
+# DOWN + UP:
+#   - [tin200/base/2, outs-tin200-all/tin200/bridge/2-1/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/2-4/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+#   - [tin200/base/2, outs-tin200-all/tin200/bridge/2-1/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/2-4/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+
+
+
+
+# 1:
+#   - [tin200/base/1]
+# 0:
+#   - [tin200/base/0]
+# 2:
+#   - [tin200/base/2]
+
+# 10:
+#   - [tin200/base/1, tin200/base/0]
+# 12:
+#   - [tin200/base/1, tin200/base/2]
+# 20:
+#   - [tin200/base/0, tin200/base/2]
+
+# 102:
+#   - [tin200/base/1, tin200/base/0, tin200/base/2]
+
+
+UP:
+  - [tin200/base/1]
+UP + DOWN:
+  - [tin200/base/1, outs-tin200-all/tin200/bridge/1-0/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/1-2/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+  - [tin200/base/1, outs-tin200-all/tin200/bridge/1-0/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/1-2/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+
+Center:
+  - [tin200/base/0]
+Center + UP/DOWN:
+  - [tin200/base/0, outs-tin200-all/tin200/bridge/0-1/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/0-2/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+  - [tin200/base/0, outs-tin200-all/tin200/bridge/0-1/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/0-2/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+
+DOWN:
+  - [tin200/base/2]
+DOWN + UP:
+  - [tin200/base/2, outs-tin200-all/tin200/bridge/2-1/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/2-0/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+  - [tin200/base/2, outs-tin200-all/tin200/bridge/2-1/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0, outs-tin200-all/tin200/bridge/2-0/0/t1/b14-16/s2/l13/e100_a0.4_r0.0_wd0]
+
+
+
+
+
+
+# | Base 4  |     63.11 |      1.649 |      0.044 |     0.492 |         1.155 |          1.204 |
+# | Base 3  |     63.03 |      1.668 |      0.044 |     0.497 |         1.13  |          1.1   |
+# | Base 1  |     62.64 |      1.683 |      0.049 |     0.496 |         1.009 |          1.024 |
+# | Base 0  |     62.61 |      1.687 |      0.053 |     0.501 |         1     |          1     |
+# | Base 2  |     62.38 |      1.693 |      0.053 |     0.501 |         0.929 |          0.969 |
+
+
+
+# | Base 3  |     63.03 |      1.668 |      0.044 |     0.497 |         1.13  |          1.1   |
+# | Base 1  |     62.64 |      1.683 |      0.049 |     0.496 |         1.009 |          1.024 |
+# | Base 2  |     62.38 |      1.693 |      0.053 |     0.501 |         0.929 |          0.969 |
+
+
+# | Base 4  |     63.11 |      1.649 |      0.044 |     0.492 |         1.155 |          1.204 |
+# | Base 1  |     62.64 |      1.683 |      0.049 |     0.496 |         1.009 |          1.024 |
+# | Base 2  |     62.38 |      1.693 |      0.053 |     0.501 |         0.929 |          0.969 |

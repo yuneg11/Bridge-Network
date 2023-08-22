@@ -1,0 +1,21 @@
+DATASETS: !include configs/cifar10/modules/dataset.yaml
+
+MODEL:
+  META_ARCHITECTURE:
+    NAME: ClassificationModelBase
+  PIXEL_MEAN: !include configs/cifar10/modules/pixel_mean.yaml
+  PIXEL_STD:  !include configs/cifar10/modules/pixel_std.yaml
+  BACKBONE:   !include configs/cifar10/modules/backbone.yaml
+  CLASSIFIER: !include configs/cifar10/modules/classifier.yaml
+
+SOLVER: !include configs/cifar10/modules/sgd.yaml
+
+DATALOADER:
+  NUM_WORKERS: 4
+  PIN_MEMORY: True
+
+CUDNN_BENCHMARK: True
+CUDNN_DETERMINISTIC: False
+
+LOG_FREQUENCY: 4
+NUM_DEVICES: -1

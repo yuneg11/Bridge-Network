@@ -1,0 +1,83 @@
+Single + Bridge-Align 1 (t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+  # - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+Single + Bridge-Align 1 (t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+  # - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+Single + Bridge-Align 1 (t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+Single + Bridge-Align 1 (t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+
+Single + Bridge-Align 2 (t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+Single + Bridge-Align 2 (t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+Single + Bridge-Align 2 (t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+Single + Bridge-Align 2 (t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+
+Single + Bridge-Align 3 (t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+Single + Bridge-Align 3 (t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+Single + Bridge-Align 3 (t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+Single + Bridge-Align 3 (t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+
+# Single + Bridge-Align 4 (t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0):
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd0]
+# Single + Bridge-Align 4 (t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5):
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+#   - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b15-16/s1/l14/e100_a0.0_r0.0_wd1e-5]
+Single + Bridge-Align 4 (t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd0]
+Single + Bridge-Align 4 (t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5):
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-3/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]
+  - [in1k/base/0, outs-in1k-t1-s1/in1k/bridge-align/0-4/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-5/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-1/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5, outs-in1k-t1-s1/in1k/bridge-align/0-2/0/t1/b14-16/s1/l13/e100_a0.0_r0.0_wd1e-5]

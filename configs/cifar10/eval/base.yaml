@@ -1,0 +1,114 @@
+# DEs
+Single:
+  - [cifar10/base/0]
+  - [cifar10/base/1]
+  - [cifar10/base/2]
+  - [cifar10/base/3]
+DE 2:
+  - [cifar10/base/0, cifar10/base/1]
+  - [cifar10/base/0, cifar10/base/2]
+  - [cifar10/base/0, cifar10/base/3]
+  - [cifar10/base/0, cifar10/base/4]
+DE 3:
+  - [cifar10/base/0, cifar10/base/1, cifar10/base/2]
+  - [cifar10/base/0, cifar10/base/2, cifar10/base/3]
+  - [cifar10/base/0, cifar10/base/3, cifar10/base/4]
+  - [cifar10/base/0, cifar10/base/4, cifar10/base/5]
+DE 4:
+  - [cifar10/base/0, cifar10/base/1, cifar10/base/2, cifar10/base/3]
+  - [cifar10/base/0, cifar10/base/2, cifar10/base/3, cifar10/base/4]
+  - [cifar10/base/0, cifar10/base/3, cifar10/base/4, cifar10/base/5]
+  - [cifar10/base/0, cifar10/base/4, cifar10/base/5, cifar10/base/1]
+DE 5:
+  - [cifar10/base/0, cifar10/base/1, cifar10/base/2, cifar10/base/3, cifar10/base/4]
+  - [cifar10/base/0, cifar10/base/2, cifar10/base/3, cifar10/base/4, cifar10/base/5]
+  - [cifar10/base/0, cifar10/base/3, cifar10/base/4, cifar10/base/5, cifar10/base/1]
+  - [cifar10/base/0, cifar10/base/4, cifar10/base/5, cifar10/base/1, cifar10/base/2]
+DE 6:
+  - [cifar10/base/0, cifar10/base/1, cifar10/base/2, cifar10/base/3, cifar10/base/4, cifar10/base/5]
+  - [cifar10/base/0, cifar10/base/2, cifar10/base/3, cifar10/base/4, cifar10/base/5, cifar10/base/6]
+  - [cifar10/base/0, cifar10/base/3, cifar10/base/4, cifar10/base/5, cifar10/base/6, cifar10/base/1]
+  - [cifar10/base/0, cifar10/base/4, cifar10/base/5, cifar10/base/6, cifar10/base/1, cifar10/base/2]
+DE 7:
+  - [cifar10/base/0, cifar10/base/1, cifar10/base/2, cifar10/base/3, cifar10/base/4, cifar10/base/5, cifar10/base/6]
+  - [cifar10/base/0, cifar10/base/2, cifar10/base/3, cifar10/base/4, cifar10/base/5, cifar10/base/6, cifar10/base/7]
+  - [cifar10/base/0, cifar10/base/3, cifar10/base/4, cifar10/base/5, cifar10/base/6, cifar10/base/7, cifar10/base/1]
+  - [cifar10/base/0, cifar10/base/4, cifar10/base/5, cifar10/base/6, cifar10/base/7, cifar10/base/1, cifar10/base/2]
+
+# Single + Beziers
+Single + Bezier 1:
+  - [cifar10/base/0, cifar10/bezier/0-1/0]
+  - [cifar10/base/0, cifar10/bezier/0-2/0]
+  - [cifar10/base/0, cifar10/bezier/0-3/0]
+  - [cifar10/base/0, cifar10/bezier/0-4/0]
+Single + Bezier 2:
+  - [cifar10/base/0, cifar10/bezier/0-1/0, cifar10/bezier/0-2/0]
+  - [cifar10/base/0, cifar10/bezier/0-2/0, cifar10/bezier/0-3/0]
+  - [cifar10/base/0, cifar10/bezier/0-3/0, cifar10/bezier/0-4/0]
+  - [cifar10/base/0, cifar10/bezier/0-4/0, cifar10/bezier/0-5/0]
+Single + Bezier 3:
+  - [cifar10/base/0, cifar10/bezier/0-1/0, cifar10/bezier/0-2/0, cifar10/bezier/0-3/0]
+  - [cifar10/base/0, cifar10/bezier/0-2/0, cifar10/bezier/0-3/0, cifar10/bezier/0-4/0]
+  - [cifar10/base/0, cifar10/bezier/0-3/0, cifar10/bezier/0-4/0, cifar10/bezier/0-5/0]
+  - [cifar10/base/0, cifar10/bezier/0-4/0, cifar10/bezier/0-5/0, cifar10/bezier/0-1/0]
+Single + Bezier 4:
+  - [cifar10/base/0, cifar10/bezier/0-1/0, cifar10/bezier/0-2/0, cifar10/bezier/0-3/0, cifar10/bezier/0-4/0]
+  - [cifar10/base/0, cifar10/bezier/0-2/0, cifar10/bezier/0-3/0, cifar10/bezier/0-4/0, cifar10/bezier/0-5/0]
+  - [cifar10/base/0, cifar10/bezier/0-3/0, cifar10/bezier/0-4/0, cifar10/bezier/0-5/0, cifar10/bezier/0-1/0]
+  - [cifar10/base/0, cifar10/bezier/0-4/0, cifar10/bezier/0-5/0, cifar10/bezier/0-1/0, cifar10/bezier/0-2/0]
+
+# Single + Beziers
+Single + Bezier-Align 1:
+  - [cifar10/base-align/0, cifar10/bezier-align/0-1/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-2/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-3/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-4/0]
+Single + Bezier-Align 2:
+  - [cifar10/base-align/0, cifar10/bezier-align/0-1/0, cifar10/bezier-align/0-2/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-2/0, cifar10/bezier-align/0-3/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-3/0, cifar10/bezier-align/0-4/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-4/0, cifar10/bezier-align/0-5/0]
+Single + Bezier-Align 3:
+  - [cifar10/base-align/0, cifar10/bezier-align/0-1/0, cifar10/bezier-align/0-2/0, cifar10/bezier-align/0-3/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-2/0, cifar10/bezier-align/0-3/0, cifar10/bezier-align/0-4/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-3/0, cifar10/bezier-align/0-4/0, cifar10/bezier-align/0-5/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-4/0, cifar10/bezier-align/0-5/0, cifar10/bezier-align/0-1/0]
+Single + Bezier-Align 4:
+  - [cifar10/base-align/0, cifar10/bezier-align/0-1/0, cifar10/bezier-align/0-2/0, cifar10/bezier-align/0-3/0, cifar10/bezier-align/0-4/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-2/0, cifar10/bezier-align/0-3/0, cifar10/bezier-align/0-4/0, cifar10/bezier-align/0-5/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-3/0, cifar10/bezier-align/0-4/0, cifar10/bezier-align/0-5/0, cifar10/bezier-align/0-1/0]
+  - [cifar10/base-align/0, cifar10/bezier-align/0-4/0, cifar10/bezier-align/0-5/0, cifar10/bezier-align/0-1/0, cifar10/bezier-align/0-2/0]
+
+# DE + Beziers
+DE 2 + Bezier:
+  - [cifar10/base/0, cifar10/base/1, cifar10/bezier/0-1/0]
+  - [cifar10/base/0, cifar10/base/2, cifar10/bezier/0-2/0]
+  - [cifar10/base/0, cifar10/base/3, cifar10/bezier/0-3/0]
+  - [cifar10/base/0, cifar10/base/4, cifar10/bezier/0-4/0]
+DE 3 + Bezier:
+  - [cifar10/base/0, cifar10/base/1, cifar10/base/2, cifar10/bezier/0-1/0, cifar10/bezier/0-2/0, cifar10/bezier/1-2/0]
+  - [cifar10/base/0, cifar10/base/2, cifar10/base/3, cifar10/bezier/0-2/0, cifar10/bezier/0-3/0, cifar10/bezier/2-3/0]
+  - [cifar10/base/0, cifar10/base/3, cifar10/base/4, cifar10/bezier/0-3/0, cifar10/bezier/0-4/0, cifar10/bezier/3-4/0]
+  - [cifar10/base/0, cifar10/base/4, cifar10/base/1, cifar10/bezier/0-4/0, cifar10/bezier/0-1/0, cifar10/bezier/1-4/0]
+DE 4 + Bezier:
+  - [cifar10/base/0, cifar10/base/1, cifar10/base/2, cifar10/base/3, cifar10/bezier/0-1/0, cifar10/bezier/0-2/0, cifar10/bezier/0-3/0, cifar10/bezier/1-2/0, cifar10/bezier/1-3/0, cifar10/bezier/2-3/0]
+  - [cifar10/base/0, cifar10/base/2, cifar10/base/3, cifar10/base/4, cifar10/bezier/0-2/0, cifar10/bezier/0-3/0, cifar10/bezier/0-4/0, cifar10/bezier/2-3/0, cifar10/bezier/2-4/0, cifar10/bezier/3-4/0]
+  - [cifar10/base/0, cifar10/base/3, cifar10/base/4, cifar10/base/1, cifar10/bezier/0-3/0, cifar10/bezier/0-4/0, cifar10/bezier/0-1/0, cifar10/bezier/3-4/0, cifar10/bezier/1-3/0, cifar10/bezier/1-4/0]
+  - [cifar10/base/0, cifar10/base/4, cifar10/base/1, cifar10/base/2, cifar10/bezier/0-4/0, cifar10/bezier/0-1/0, cifar10/bezier/0-2/0, cifar10/bezier/1-4/0, cifar10/bezier/2-4/0, cifar10/bezier/1-2/0]
+
+# DE + Beziers
+DE 2 + Bezier-Align:
+  - [cifar10/base-align/0, cifar10/base-align/1, cifar10/bezier-align/0-1/0]
+  - [cifar10/base-align/0, cifar10/base-align/2, cifar10/bezier-align/0-2/0]
+  - [cifar10/base-align/0, cifar10/base-align/3, cifar10/bezier-align/0-3/0]
+  - [cifar10/base-align/0, cifar10/base-align/4, cifar10/bezier-align/0-4/0]
+DE 3 + Bezier-Align:
+  - [cifar10/base-align/0, cifar10/base-align/1, cifar10/base-align/2, cifar10/bezier-align/0-1/0, cifar10/bezier-align/0-2/0, cifar10/bezier-align/1-2/0]
+  - [cifar10/base-align/0, cifar10/base-align/2, cifar10/base-align/3, cifar10/bezier-align/0-2/0, cifar10/bezier-align/0-3/0, cifar10/bezier-align/2-3/0]
+  - [cifar10/base-align/0, cifar10/base-align/3, cifar10/base-align/4, cifar10/bezier-align/0-3/0, cifar10/bezier-align/0-4/0, cifar10/bezier-align/3-4/0]
+  - [cifar10/base-align/0, cifar10/base-align/4, cifar10/base-align/1, cifar10/bezier-align/0-4/0, cifar10/bezier-align/0-1/0, cifar10/bezier-align/1-4/0]
+DE 4 + Bezier-Align:
+  - [cifar10/base-align/0, cifar10/base-align/1, cifar10/base-align/2, cifar10/base-align/3, cifar10/bezier-align/0-1/0, cifar10/bezier-align/0-2/0, cifar10/bezier-align/0-3/0, cifar10/bezier-align/1-2/0, cifar10/bezier-align/1-3/0, cifar10/bezier-align/2-3/0]
+  - [cifar10/base-align/0, cifar10/base-align/2, cifar10/base-align/3, cifar10/base-align/4, cifar10/bezier-align/0-2/0, cifar10/bezier-align/0-3/0, cifar10/bezier-align/0-4/0, cifar10/bezier-align/2-3/0, cifar10/bezier-align/2-4/0, cifar10/bezier-align/3-4/0]
+  - [cifar10/base-align/0, cifar10/base-align/3, cifar10/base-align/4, cifar10/base-align/1, cifar10/bezier-align/0-3/0, cifar10/bezier-align/0-4/0, cifar10/bezier-align/0-1/0, cifar10/bezier-align/3-4/0, cifar10/bezier-align/1-3/0, cifar10/bezier-align/1-4/0]
+  - [cifar10/base-align/0, cifar10/base-align/4, cifar10/base-align/1, cifar10/base-align/2, cifar10/bezier-align/0-4/0, cifar10/bezier-align/0-1/0, cifar10/bezier-align/0-2/0, cifar10/bezier-align/1-4/0, cifar10/bezier-align/2-4/0, cifar10/bezier-align/1-2/0]

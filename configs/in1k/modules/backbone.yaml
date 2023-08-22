@@ -1,0 +1,19 @@
+NAME: build_resnet_backbone
+RESNET:
+  CHANNELS: 3
+  IN_PLANES: 64
+  FIRST_BLOCK:
+    USE_NORM_LAYER: True
+    USE_ACTIVATION: True
+    USE_POOL_LAYER: True
+    CONV_KSP: [7, 2, 3]
+    POOL_KSP: [3, 2, 1]
+  BLOCK: Bottleneck
+  SHORTCUT: ProjectionShortcut
+  NUM_BLOCKS: [3, 4, 6, 3]
+  WIDEN_FACTOR: 1
+  CONV_LAYERS: Conv2d
+  CONV_LAYERS_BIAS: False
+  CONV_LAYERS_SAME_PADDING: False
+  NORM_LAYERS: FilterResponseNorm2d
+  ACTIVATIONS: SiLU

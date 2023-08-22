@@ -1,0 +1,114 @@
+# DEs
+Single:
+  - [in1k/base/0]
+  - [in1k/base/1]
+  - [in1k/base/2]
+  - [in1k/base/3]
+DE 2:
+  - [in1k/base/0, in1k/base/1]
+  - [in1k/base/0, in1k/base/2]
+  - [in1k/base/0, in1k/base/3]
+  - [in1k/base/0, in1k/base/4]
+DE 3:
+  - [in1k/base/0, in1k/base/1, in1k/base/2]
+  - [in1k/base/0, in1k/base/2, in1k/base/3]
+  - [in1k/base/0, in1k/base/3, in1k/base/4]
+  - [in1k/base/0, in1k/base/4, in1k/base/5]
+DE 4:
+  - [in1k/base/0, in1k/base/1, in1k/base/2, in1k/base/3]
+  - [in1k/base/0, in1k/base/2, in1k/base/3, in1k/base/4]
+  - [in1k/base/0, in1k/base/3, in1k/base/4, in1k/base/5]
+  - [in1k/base/0, in1k/base/4, in1k/base/5, in1k/base/1]
+DE 5:
+  - [in1k/base/0, in1k/base/1, in1k/base/2, in1k/base/3, in1k/base/4]
+  - [in1k/base/0, in1k/base/2, in1k/base/3, in1k/base/4, in1k/base/5]
+  - [in1k/base/0, in1k/base/3, in1k/base/4, in1k/base/5, in1k/base/1]
+  - [in1k/base/0, in1k/base/4, in1k/base/5, in1k/base/1, in1k/base/2]
+DE 6:
+  - [in1k/base/0, in1k/base/1, in1k/base/2, in1k/base/3, in1k/base/4, in1k/base/5]
+  - [in1k/base/0, in1k/base/2, in1k/base/3, in1k/base/4, in1k/base/5, in1k/base/6]
+  - [in1k/base/0, in1k/base/3, in1k/base/4, in1k/base/5, in1k/base/6, in1k/base/1]
+  - [in1k/base/0, in1k/base/4, in1k/base/5, in1k/base/6, in1k/base/1, in1k/base/2]
+DE 7:
+  - [in1k/base/0, in1k/base/1, in1k/base/2, in1k/base/3, in1k/base/4, in1k/base/5, in1k/base/6]
+  - [in1k/base/0, in1k/base/2, in1k/base/3, in1k/base/4, in1k/base/5, in1k/base/6, in1k/base/7]
+  - [in1k/base/0, in1k/base/3, in1k/base/4, in1k/base/5, in1k/base/6, in1k/base/7, in1k/base/1]
+  - [in1k/base/0, in1k/base/4, in1k/base/5, in1k/base/6, in1k/base/7, in1k/base/1, in1k/base/2]
+
+# Single + Beziers
+Single + Bezier 1:
+  - [in1k/base/0, in1k/bezier/0-1/0]
+  - [in1k/base/0, in1k/bezier/0-2/0]
+  - [in1k/base/0, in1k/bezier/0-3/0]
+  - [in1k/base/0, in1k/bezier/0-4/0]
+Single + Bezier 2:
+  - [in1k/base/0, in1k/bezier/0-1/0, in1k/bezier/0-2/0]
+  - [in1k/base/0, in1k/bezier/0-2/0, in1k/bezier/0-3/0]
+  - [in1k/base/0, in1k/bezier/0-3/0, in1k/bezier/0-4/0]
+  - [in1k/base/0, in1k/bezier/0-4/0, in1k/bezier/0-5/0]
+Single + Bezier 3:
+  - [in1k/base/0, in1k/bezier/0-1/0, in1k/bezier/0-2/0, in1k/bezier/0-3/0]
+  - [in1k/base/0, in1k/bezier/0-2/0, in1k/bezier/0-3/0, in1k/bezier/0-4/0]
+  - [in1k/base/0, in1k/bezier/0-3/0, in1k/bezier/0-4/0, in1k/bezier/0-5/0]
+  - [in1k/base/0, in1k/bezier/0-4/0, in1k/bezier/0-5/0, in1k/bezier/0-1/0]
+Single + Bezier 4:
+  - [in1k/base/0, in1k/bezier/0-1/0, in1k/bezier/0-2/0, in1k/bezier/0-3/0, in1k/bezier/0-4/0]
+  - [in1k/base/0, in1k/bezier/0-2/0, in1k/bezier/0-3/0, in1k/bezier/0-4/0, in1k/bezier/0-5/0]
+  - [in1k/base/0, in1k/bezier/0-3/0, in1k/bezier/0-4/0, in1k/bezier/0-5/0, in1k/bezier/0-1/0]
+  - [in1k/base/0, in1k/bezier/0-4/0, in1k/bezier/0-5/0, in1k/bezier/0-1/0, in1k/bezier/0-2/0]
+
+# Single + Beziers
+Single + Bezier-Align 1:
+  - [in1k/base-align/0, in1k/bezier-align/0-1/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-2/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-3/0]
+#   - [in1k/base-align/0, in1k/bezier-align/0-4/0]
+Single + Bezier-Align 2:
+  - [in1k/base-align/0, in1k/bezier-align/0-1/0, in1k/bezier-align/0-2/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-2/0, in1k/bezier-align/0-3/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-3/0, in1k/bezier-align/0-4/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-4/0, in1k/bezier-align/0-5/0]
+Single + Bezier-Align 3:
+  - [in1k/base-align/0, in1k/bezier-align/0-1/0, in1k/bezier-align/0-2/0, in1k/bezier-align/0-3/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-2/0, in1k/bezier-align/0-3/0, in1k/bezier-align/0-4/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-3/0, in1k/bezier-align/0-4/0, in1k/bezier-align/0-5/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-4/0, in1k/bezier-align/0-5/0, in1k/bezier-align/0-1/0]
+Single + Bezier-Align 4:
+  - [in1k/base-align/0, in1k/bezier-align/0-1/0, in1k/bezier-align/0-2/0, in1k/bezier-align/0-3/0, in1k/bezier-align/0-4/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-2/0, in1k/bezier-align/0-3/0, in1k/bezier-align/0-4/0, in1k/bezier-align/0-5/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-3/0, in1k/bezier-align/0-4/0, in1k/bezier-align/0-5/0, in1k/bezier-align/0-1/0]
+  - [in1k/base-align/0, in1k/bezier-align/0-4/0, in1k/bezier-align/0-5/0, in1k/bezier-align/0-1/0, in1k/bezier-align/0-2/0]
+
+# DE + Beziers
+DE 2 + Bezier:
+  - [in1k/base/0, in1k/base/1, in1k/bezier/0-1/0]
+  - [in1k/base/0, in1k/base/2, in1k/bezier/0-2/0]
+  - [in1k/base/0, in1k/base/3, in1k/bezier/0-3/0]
+  - [in1k/base/0, in1k/base/4, in1k/bezier/0-4/0]
+DE 3 + Bezier:
+  - [in1k/base/0, in1k/base/1, in1k/base/2, in1k/bezier/0-1/0, in1k/bezier/0-2/0, in1k/bezier/1-2/0]
+  - [in1k/base/0, in1k/base/2, in1k/base/3, in1k/bezier/0-2/0, in1k/bezier/0-3/0, in1k/bezier/2-3/0]
+  - [in1k/base/0, in1k/base/3, in1k/base/4, in1k/bezier/0-3/0, in1k/bezier/0-4/0, in1k/bezier/3-4/0]
+  - [in1k/base/0, in1k/base/4, in1k/base/1, in1k/bezier/0-4/0, in1k/bezier/0-1/0, in1k/bezier/1-4/0]
+DE 4 + Bezier:
+  - [in1k/base/0, in1k/base/1, in1k/base/2, in1k/base/3, in1k/bezier/0-1/0, in1k/bezier/0-2/0, in1k/bezier/0-3/0, in1k/bezier/1-2/0, in1k/bezier/1-3/0, in1k/bezier/2-3/0]
+  - [in1k/base/0, in1k/base/2, in1k/base/3, in1k/base/4, in1k/bezier/0-2/0, in1k/bezier/0-3/0, in1k/bezier/0-4/0, in1k/bezier/2-3/0, in1k/bezier/2-4/0, in1k/bezier/3-4/0]
+  - [in1k/base/0, in1k/base/3, in1k/base/4, in1k/base/1, in1k/bezier/0-3/0, in1k/bezier/0-4/0, in1k/bezier/0-1/0, in1k/bezier/3-4/0, in1k/bezier/1-3/0, in1k/bezier/1-4/0]
+  - [in1k/base/0, in1k/base/4, in1k/base/1, in1k/base/2, in1k/bezier/0-4/0, in1k/bezier/0-1/0, in1k/bezier/0-2/0, in1k/bezier/1-4/0, in1k/bezier/2-4/0, in1k/bezier/1-2/0]
+
+# DE + Beziers
+DE 2 + Bezier-Align:
+  - [in1k/base-align/0, in1k/base-align/1, in1k/bezier-align/0-1/0]
+  - [in1k/base-align/0, in1k/base-align/2, in1k/bezier-align/0-2/0]
+  - [in1k/base-align/0, in1k/base-align/3, in1k/bezier-align/0-3/0]
+  - [in1k/base-align/0, in1k/base-align/4, in1k/bezier-align/0-4/0]
+DE 3 + Bezier-Align:
+  - [in1k/base-align/0, in1k/base-align/1, in1k/base-align/2, in1k/bezier-align/0-1/0, in1k/bezier-align/0-2/0, in1k/bezier-align/1-2/0]
+  - [in1k/base-align/0, in1k/base-align/2, in1k/base-align/3, in1k/bezier-align/0-2/0, in1k/bezier-align/0-3/0, in1k/bezier-align/2-3/0]
+  - [in1k/base-align/0, in1k/base-align/3, in1k/base-align/4, in1k/bezier-align/0-3/0, in1k/bezier-align/0-4/0, in1k/bezier-align/3-4/0]
+  - [in1k/base-align/0, in1k/base-align/4, in1k/base-align/1, in1k/bezier-align/0-4/0, in1k/bezier-align/0-1/0, in1k/bezier-align/1-4/0]
+DE 4 + Bezier-Align:
+  - [in1k/base-align/0, in1k/base-align/1, in1k/base-align/2, in1k/base-align/3, in1k/bezier-align/0-1/0, in1k/bezier-align/0-2/0, in1k/bezier-align/0-3/0, in1k/bezier-align/1-2/0, in1k/bezier-align/1-3/0, in1k/bezier-align/2-3/0]
+  - [in1k/base-align/0, in1k/base-align/2, in1k/base-align/3, in1k/base-align/4, in1k/bezier-align/0-2/0, in1k/bezier-align/0-3/0, in1k/bezier-align/0-4/0, in1k/bezier-align/2-3/0, in1k/bezier-align/2-4/0, in1k/bezier-align/3-4/0]
+  - [in1k/base-align/0, in1k/base-align/3, in1k/base-align/4, in1k/base-align/1, in1k/bezier-align/0-3/0, in1k/bezier-align/0-4/0, in1k/bezier-align/0-1/0, in1k/bezier-align/3-4/0, in1k/bezier-align/1-3/0, in1k/bezier-align/1-4/0]
+  - [in1k/base-align/0, in1k/base-align/4, in1k/base-align/1, in1k/base-align/2, in1k/bezier-align/0-4/0, in1k/bezier-align/0-1/0, in1k/bezier-align/0-2/0, in1k/bezier-align/1-4/0, in1k/bezier-align/2-4/0, in1k/bezier-align/1-2/0]

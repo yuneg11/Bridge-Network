@@ -1,0 +1,51 @@
+DATASETS: !include configs/cifar100/modules/dataset.yaml
+BEZIER_MODEL:
+  META_ARCHITECTURE:
+    NAME: ClassificationModelBase
+  PIXEL_MEAN: !include configs/cifar100/modules/pixel_mean.yaml
+  PIXEL_STD:  !include configs/cifar100/modules/pixel_std.yaml
+  BACKBONE:   !include configs/cifar100/modules/backbone_bezier_bn.yaml
+  CLASSIFIER: !include configs/cifar100/modules/classifier_bezier.yaml
+  CHECKPOINT: TO_BE_SET
+
+MODEL:
+  META_ARCHITECTURE:
+    NAME: BridgeModelBase
+  BASE_IN_PLANES: 256
+  REQUIRES:
+    - layer12
+  BACKBONES: [13, 14, 15]
+  TYPE: 1
+  SLIM_FACTOR: 1
+
+SOLVER:
+  NUM_EPOCHS: 200
+  BATCH_SIZE: 128
+  VALID_FREQUENCY: 1
+  VALID_FINALE: 10
+  OPTIMIZER:
+    NAME: SGD
+    SGD:
+      BASE_LR: 0.1
+      WEIGHT_DECAY: 0.00001
+      MOMENTUM: 0.9
+      NESTEROV: False
+  SCHEDULER:
+    NAME: WarmupSimpleCosineLR
+    WARMUP_SIMPLE_COSINE_LR:
+      WARMUP_EPOCHS: 5
+      WARMUP_METHOD: linear
+      WARMUP_FACTOR: 0.01
+  MATCH: log_confidences
+  MIXUP_ALPHA: 0.4
+  REGULARIZATION: 0.
+
+DATALOADER:
+  NUM_WORKERS: 4
+  PIN_MEMORY: True
+
+CUDNN_BENCHMARK: True
+CUDNN_DETERMINISTIC: False
+
+LOG_FREQUENCY: 4
+NUM_DEVICES: -1

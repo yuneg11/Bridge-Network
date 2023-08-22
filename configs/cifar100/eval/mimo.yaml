@@ -1,0 +1,9 @@
+M 0:
+  - [outs-mimo/cifar100/mimo/10x3/0:0]
+M 1:
+  - [outs-mimo/cifar100/mimo/10x3/0:1]
+M 2:
+  - [outs-mimo/cifar100/mimo/10x3/0:2]
+
+MIMO 3:
+  - [outs-mimo/cifar100/mimo/10x3/0:0, outs-mimo/cifar100/mimo/10x3/0:1, outs-mimo/cifar100/mimo/10x3/0:2]
