@@ -4,7 +4,7 @@
 
 This repository contains the implementation for _Traversing Between Modes in Function Space for Fast Ensembling_ (ICML 2023).
 
-[EungGu Yun](https://github.com/yuneg11)\*, Hyungi Lee\*, [Giung Nam](https://cs-giung.github.io)\*, [Juho Lee](https://juho-lee.github.io)
+[EungGu Yun](https://github.com/yuneg11)\*, [Hyungi Lee](https://hyungi-lee.github.io/)\*, [Giung Nam](https://cs-giung.github.io)\*, [Juho Lee](https://juho-lee.github.io)
 
 [[`Paper`](https://arxiv.org/abs/2306.11304)][[`ICML`](https://icml.cc/virtual/2023/poster/24321)][[`BibTeX`](#citation)]
 
